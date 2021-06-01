@@ -61,7 +61,7 @@ button {
 }
 
 .cta-blue {
-    background: #192440;
+    background: #01081a;
     color: #ffffff;
 }
 
@@ -131,14 +131,13 @@ button {
 }
 
 #contact form {
-    color: #00FFAD;
+    color: #2f21a7;
 }
 
 #contact form input,
 #contact form textarea {
     background: transparent;
-    border: 1px solid #00FFAD;
-    color: #ffffff;
+    border: 1px solid #2f13cf;
 }
 
 /********** copyright **********/
@@ -168,6 +167,7 @@ button {
 #copyright #social-media a:hover i {
     color: #ffffff;
 }
+
 
 /********** RWD **********/
 @media (max-width: 575px) {
